@@ -75,7 +75,7 @@ int main()
 
 	for(i=1; i<n-1; i++)
 	{
-		//ans += mp[vp[i].second]*
+		
 	}
 
 
