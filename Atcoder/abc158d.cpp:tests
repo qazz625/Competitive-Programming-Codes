@@ -1,0 +1,11 @@
+[
+	{
+		"test": "a\n4\n2 1 p\n1\n2 2 c\n1\n"
+	},
+	{
+		"test": "a\n6\n2 2 a\n2 1 b\n1\n2 2 c\n1\n1\n"
+	},
+	{
+		"test": "y\n1\n2 1 x\n"
+	}
+]
