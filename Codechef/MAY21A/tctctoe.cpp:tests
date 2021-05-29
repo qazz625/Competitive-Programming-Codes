@@ -1,0 +1,8 @@
+[
+	{
+		"test": "3\nXOX\nXXO\nO_O\nXXX\nOOO\n___\nXOX\nOX_\nXO_\n"
+	},
+	{
+		"test": "1\n__X\nO__\n__O\n"
+	}
+]

@@ -1,0 +1,11 @@
+[
+	{
+		"test": "5\n3 1\n*ba\nb*b\nab*\n3 3\n*ba\nb*b\nab*\n3 4\n*ba\nb*b\nab*\n4 6\n*aaa\nb*ba\nab*a\nbba*\n2 2\n*b\na*\n"
+	},
+	{
+		"test": "4\n4 7\n*aab\nb*aa\nbb*b\naba*\n2 1\n*a\nb*\n4 8\n*aab\nb*aa\nbb*b\naba*\n4 6\n*aab\nb*aa\nbb*b\naba*\n\n\n"
+	},
+	{
+		"test": "2\n3 8\n*aa\nb*b\nba*\n3 6\n*aa\nb*b\nba*\n"
+	}
+]

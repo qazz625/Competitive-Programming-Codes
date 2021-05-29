@@ -1,0 +1,14 @@
+[
+	{
+		"test": "4\n4 2\nabcd\n3 1\nabc\n4 3\naaaa\n9 3\nabaabaaaa\n"
+	},
+	{
+		"test": "1\n6 3\nbbaade\n"
+	},
+	{
+		"test": "1\n7 7\n\ndaaaaaa\n"
+	},
+	{
+		"test": "1\n3 3\naab\n"
+	}
+]
