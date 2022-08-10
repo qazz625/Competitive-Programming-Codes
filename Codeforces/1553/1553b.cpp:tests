@@ -1,0 +1,8 @@
+[
+	{
+		"test": "6\nabcdef\ncdedcb\naaa\naaaaa\naab\nbaaa\nab\nb\nabcdef\nabcdef\nba\nbaa\n"
+	},
+	{
+		"test": "1\nab\nb\n"
+	}
+]

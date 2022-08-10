@@ -1,0 +1,11 @@
+[
+	{
+		"test": "3\n2\n5 orange\n2 white\n"
+	},
+	{
+		"test": "10\n3\n1 blue\n4 red\n5 orange\n"
+	},
+	{
+		"test": "2\n2\n1 white\n2 white\n"
+	}
+]
